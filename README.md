@@ -25,6 +25,9 @@ A=np.array([[3,2,5],[1,1,2],[3,3,6]])
 B=np.linalg.matrix_rank(A)
 print(B)
 ```
+## output:
+![output](./2.png)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
